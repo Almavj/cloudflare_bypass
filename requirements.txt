@@ -1,0 +1,12 @@
+cloudscraper>=1.2.71
+fake-useragent>=1.5.1
+requests>=2.31.0
+
+# CLI & UI
+rich>=13.7.1
+
+# Encryption
+cryptography>=42.0.0
+
+# PDF Report
+fpdf>=1.7.2
